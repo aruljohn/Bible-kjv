@@ -1,22 +1,18 @@
 // Import
 const gulp = require("gulp"),
-  minify = require("gulp-minify");
+  del = require("del"),
+  jsonminify = require("gulp-jsonminify");
 
 // Tasks
 gulp.task("clean", function () {
   return del(["min"]);
 });
 
-gulp.task("compress", function () {
-  gulp.src("src/*.json")
-    .pipe(minify({
-      ext: {
-        src: ".json",
-        min: ".json"
-      },
-    }))
-    .pipe(gulp.dest("min"))
+gulp.task("minify", function () {
+  return gulp.src(["src/*.json"])
+    .pipe(jsonminify())
+    .pipe(gulp.dest("min"));
 });
 
 // Combined tasks
-gulp.task("default", gulp.series("clean", "compress"));
+gulp.task("default", gulp.series("clean", "minify"));

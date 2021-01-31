@@ -1,5 +1,6 @@
 {
     "book": "Numbers",
+    "abbrev": "Num",
     "chapters": [
         {
             "chapter": "1",

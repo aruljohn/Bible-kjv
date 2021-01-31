@@ -1,5 +1,6 @@
 {
     "book": "Romans",
+    "abbrev": "Rom",
     "chapters": [
         {
             "chapter": "1",

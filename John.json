@@ -1,5 +1,6 @@
 {
     "book": "John",
+    "abbrev": "John",
     "chapters": [
         {
             "chapter": "1",

@@ -1,5 +1,6 @@
 {
     "book": "Luke",
+    "abbrev": "Luke",
     "chapters": [
         {
             "chapter": "1",

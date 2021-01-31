@@ -1,0 +1,332 @@
+[
+  {
+    "bookName": "Genesis",
+    "bookId": 1,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Exodus",
+    "bookId": 2,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Leviticus",
+    "bookId": 3,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Numbers",
+    "bookId": 4,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Deuteronomy",
+    "bookId": 5,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Joshua",
+    "bookId": 6,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Judges",
+    "bookId": 7,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Ruth",
+    "bookId": 8,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "1 Samuel",
+    "bookId": 9,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "2 Samuel",
+    "bookId": 10,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "1 Kings",
+    "bookId": 11,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "2 Kings",
+    "bookId": 12,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "1 Chronicles",
+    "bookId": 13,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "2 Chronicles",
+    "bookId": 14,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Ezra",
+    "bookId": 15,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Nehemiah",
+    "bookId": 16,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Esther",
+    "bookId": 17,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Job",
+    "bookId": 18,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Psalms",
+    "bookId": 19,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Proverbs",
+    "bookId": 20,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Ecclesiastes",
+    "bookId": 21,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Song of Solomon",
+    "bookId": 22,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Isaiah",
+    "bookId": 23,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Jeremiah",
+    "bookId": 24,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Lamentations",
+    "bookId": 25,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Ezekiel",
+    "bookId": 26,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Daniel",
+    "bookId": 27,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Hosea",
+    "bookId": 28,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Joel",
+    "bookId": 29,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Amos",
+    "bookId": 30,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Obadiah",
+    "bookId": 31,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Jonah",
+    "bookId": 32,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Micah",
+    "bookId": 33,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Nahum",
+    "bookId": 34,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Habakkuk",
+    "bookId": 35,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Zephaniah",
+    "bookId": 36,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Haggai",
+    "bookId": 37,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Zechariah",
+    "bookId": 38,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Malachi",
+    "bookId": 39,
+    "subcategory": "Old Testament"
+  },
+  {
+    "bookName": "Matthew",
+    "bookId": 40,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Mark",
+    "bookId": 41,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Luke",
+    "bookId": 42,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "John",
+    "bookId": 43,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Acts",
+    "bookId": 44,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Romans",
+    "bookId": 45,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "1 Corinthians",
+    "bookId": 46,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "2 Corinthians",
+    "bookId": 47,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Galatians",
+    "bookId": 48,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Ephesians",
+    "bookId": 49,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Philippians",
+    "bookId": 50,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Colossians",
+    "bookId": 51,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "1 Thessalonians",
+    "bookId": 52,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "2 Thessalonians",
+    "bookId": 53,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "1 Timothy",
+    "bookId": 54,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "2 Timothy",
+    "bookId": 55,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Titus",
+    "bookId": 56,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Philemon",
+    "bookId": 57,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Hebrews",
+    "bookId": 58,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "James",
+    "bookId": 59,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "1 Peter",
+    "bookId": 60,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "2 Peter",
+    "bookId": 61,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "1 John",
+    "bookId": 62,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "2 John",
+    "bookId": 63,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "3 John",
+    "bookId": 64,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Jude",
+    "bookId": 65,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Revelation",
+    "bookId": 66,
+    "subcategory": "New Testament"
+  }
+]

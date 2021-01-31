@@ -6,7 +6,7 @@
   - change directories to the source code, i.e. `cd C:\Users\adamd\Documents\GitHub\Bible-kjv`
   - `npm i -g gulp`
   - `npm i del gulp-jsonminify`
-  - `gulp`
+  - `gulp`  // can take a couple of minutes to minify 130,749 lines of text
 
 ## NPM Packages
 

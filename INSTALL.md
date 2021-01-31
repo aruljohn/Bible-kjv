@@ -7,3 +7,8 @@
   - `npm i -g gulp`
   - `npm i del gulp-jsonminify`
   - `gulp`
+
+## NPM Packages
+
+- <https://www.npmjs.com/package/gulp-jsonminify>
+- <https://www.npmjs.com/package/del>
